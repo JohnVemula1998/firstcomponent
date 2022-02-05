@@ -1,0 +1,26 @@
+.card{
+    margin: 5px;
+    width: 50vw;
+    height: auto;
+    font-family: cursive;
+    background-color: rgba(228, 240, 236, 0.473);
+}
+img{
+    width: 90%;
+    height: 400px;
+}
+img:hover{
+    width: 100%;
+}
+.card p{
+    padding: 10px;
+    color: rgb(255, 0, 128);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.card h1{
+    color: rgb(25, 25, 253);
+}
+.card h1:hover{
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+}

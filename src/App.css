@@ -31,3 +31,18 @@
     transform: rotate(360deg);
   }
 }
+.App{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: auto;
+  background-color: #f1b91c;
+}
+.App .heading{
+  color: red;
+  text-decoration: underline;
+  font-style: italic;
+  font-family: cursive;
+}
